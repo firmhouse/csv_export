@@ -1,6 +1,6 @@
 # csv_export
 
-A CsvExport is a simple opinionated class for easily making CSV exports in Rails apps.
+CsvExport is a simple opinionated class for easily making CSV exports in Rails apps.
 You can easily render CSV exports from model collections or add rows via raw data insertion.
 
 ## Usage
